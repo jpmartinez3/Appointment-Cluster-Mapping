@@ -1,0 +1,6 @@
+//Ask the user to input their currentLocation
+//Ask the user to input their array of destinations
+//Calculate the distance from current location to Destination [0]
+//Loop through the array first changing the currentLocation to the last destination repeating the process of calculating distance
+//Rank from lowest to largest to build a route
+//Conditions may be needed to make sure clusters are within a certain zipcode
